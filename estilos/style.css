@@ -13,3 +13,28 @@ main{
     box-shadow: 3px 3px 5px rgb(0, 0, 0);
     
 }
+
+h1 {
+font-size: 1.sem;
+color: rgb(6, 95, 10);
+}
+
+h2 {
+font-size:1.Sem;
+color: rgb(1, 156, 19);
+}
+
+img.lado{
+float: right;
+}
+
+a {
+text-decoration: none;
+font-weight: bold;
+color: aliceblue;
+}
+
+a:hover{
+text-decoration: underline;
+color: black;
+}
